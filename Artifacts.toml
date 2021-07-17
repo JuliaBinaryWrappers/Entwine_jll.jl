@@ -1,0 +1,236 @@
+[[Entwine]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c849d939785d6caafbb14df10556324c3d3bb9c7"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "5e98bd65f2de7ed3f494bdc3b9d37c884645857e626170b9dcf10b174cfe3985"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Entwine]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7899e5aeef6bff5941e189b02bec240d5d57fea"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "566e0f9e10af969c143cfbcc70cdd7b14712b93f5347382ce8da5591ca3175cd"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Entwine]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56bbb62c33e032e64f1caa6bf64db342ad3d82b8"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "6310eb16c44b1aa5dddc629f55c1724b2e734ad14b0188603021f72fff7aff0e"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Entwine]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f866508f4a9715b8a006cf00d5db934927c2a4fd"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "2add5c91ece96e224d8dee21e17ef39ab9b21305339b115553f874a708edd9a3"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Entwine]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eae5300ac3aa1af2f6577d45969b3cfc20b129be"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "29a25b04e341870c4ce7c9a9745234f498e77ef674a90102013711e034c44fa4"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Entwine]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7cb4475ae74b83edb811bd97c6dd908c2050002"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "02a695b46da688f1d8cfe4a95055273295453e70ca729c1c644ced0cab71498d"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Entwine]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2bc10eb037564e359b215e9571dba567136c27f"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "79f5a817a62c6e6ea3860a5d440174d2f306a1b8e4cd8d9f649f844143e6fee5"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Entwine]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30674316062bea4335df2846450b554a253a2759"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "16be3ecdcec23d87d163108967d1a264a467c86ec92cbe1c7573433e4a4c80e5"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Entwine]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7fd32d3d187550d245bab01e317406f777e02187"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "4c1c07b9f54315be90b60520703601085afe3a3bdcc9f30f3bf0d431f90ca42e"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[Entwine]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "528b9f3a36bb88529b17eccfc2cde050e522d9f1"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "d18fbedc8d2e5f78c8d5d8abc0f1304e5bd6f803bece75666ea15cc2ccbe6e33"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[Entwine]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e4ac03b309904cad157d3a2b412e8e5081628d8e"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "328c8e14eb7ab76b33e7c3fa1f9447eb2283658e41ae6878f579bcc106f1c614"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.i686-linux-musl-cxx03.tar.gz"
+[[Entwine]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c792e97e1ca136bdce8421c3b4b79c157c109dea"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "8b7ae7471fa8ae60d7babbc37892759f398dd03585b60dbfb0ade2dd6a24a646"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.i686-linux-musl-cxx11.tar.gz"
+[[Entwine]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e28ac5e19f2ac819f1bab174c2f1f642cb79f85"
+os = "windows"
+
+    [[Entwine.download]]
+    sha256 = "b2675bfd614d2791c8b7aa2f56760e1dc6e5f4ba05827b1c0f0b1a155e7e3e9d"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Entwine]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5eb8cd7aa2597f4a32037f1c08ff6596217e5894"
+os = "windows"
+
+    [[Entwine.download]]
+    sha256 = "55d28f1cd7e330d0cbc8afb8ea19b9639e88a8acd23b8b6b515542c44b042ae4"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Entwine]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68cd5cdd1ebfe0a62e049128d9216554b7c284e5"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "640d2cab454c32b5b856e92754dfa04d5acafdbe67b5d8f31f0ef8c0b5856604"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Entwine]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c565387b073a7f3bd5a83b18951e7b873344bcaf"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "4d65958895d3bf5c2a242f8252b8e2af08a180da9b721cc3c0bbd60d296cb496"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+git-tree-sha1 = "bd700be9eb975473761e7698f68f887f142c88e1"
+os = "macos"
+
+    [[Entwine.download]]
+    sha256 = "ef5baa2e7efa9c3e6bb816ee588dc4658fd86ef18599fe91aaaea3d0289c9419"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-apple-darwin.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd8f73ff0545b11b6a5fb767692efb984e4a17d1"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "fa1b44dd9a4496983bfcd799d804362188c0d89c669f8b74d89061d014899512"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ccdb8f9389cc5fdb41b70f72ab1d50a0c1a838cb"
+libc = "glibc"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "b6320191b6e71707222cbafcafc19fd5e4590824ee406adf9d297a684fc24376"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "048784c544c7fe02e7d58cf99af4a522ec1498a6"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "ee8a719c45c1c5bbdef327d34ad0a4649552a6f77ec02013ce9c497b353a4120"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7505a9b4e5d5bc441fc1465bd461d21f632db4a3"
+libc = "musl"
+os = "linux"
+
+    [[Entwine.download]]
+    sha256 = "7c3198ea045246eced1437705db06f462827c90e66f54ca8c2704a96ab537742"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+git-tree-sha1 = "f30cc62c93987defdae07225efb62154434fb5e8"
+os = "freebsd"
+
+    [[Entwine.download]]
+    sha256 = "c4cd4fa79935ba003063bf197a72f0d73688a4d24440f57480a82e6f79ac8b06"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-unknown-freebsd.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a05adfc7c2bf0c7c487a90b942f843c966b857f"
+os = "windows"
+
+    [[Entwine.download]]
+    sha256 = "3cd78c861d35ab28e491e3aea0bfcf7b3e5ac5baa796b88a23281695b959b8c9"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Entwine]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c6fb5d272d387bc317df961fd7b2333bc7246819"
+os = "windows"
+
+    [[Entwine.download]]
+    sha256 = "0aa91ea9038247cfa96af4a1b444b39b8b80a3a14a265c35c777255213210259"
+    url = "https://github.com/JuliaBinaryWrappers/Entwine_jll.jl/releases/download/Entwine-v2.1.0+0/Entwine.v2.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
