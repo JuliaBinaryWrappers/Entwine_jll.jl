@@ -5,7 +5,7 @@ using PDAL_jll
 using OpenSSL_jll
 JLLWrappers.@generate_wrapper_header("Entwine")
 JLLWrappers.@declare_executable_product(entwine)
-JLLWrappers.@declare_library_product(libentwine, "@rpath/libentwine.2.dylib")
+JLLWrappers.@declare_library_product(libentwine, "@rpath/libentwine.3.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(PDAL_jll, OpenSSL_jll)
     JLLWrappers.@init_executable_product(
@@ -15,7 +15,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libentwine,
-        "lib/libentwine.2.1.0.dylib",
+        "lib/libentwine.2.2.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
